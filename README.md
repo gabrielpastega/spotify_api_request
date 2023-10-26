@@ -1,4 +1,4 @@
-Spotify API Request
+SPOTIFY API REQUEST
 
 Este repositório contém um notebook prático para ajudá-lo a entender e utilizar a API do Spotify de forma eficaz. Ao seguir os passos descritos no notebook, você aprenderá como autenticar suas solicitações, fazer chamadas à API do Spotify e coletar dados brutos, bem como transformá-los, tudo usando Python.
 
