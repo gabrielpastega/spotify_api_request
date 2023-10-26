@@ -29,7 +29,7 @@ pip install -r requirements.txt
 git clone https://github.com/gabrielpastega/spotify_api_request
 ```
 
-2. **Acesse o Notebook**: Navegue até a pasta do projeto e abra o notebook `spotify-api-data-extraction.ipynb` no Jupyter Notebook, JupyterLab, VSCode.
+2. **Acesse o Notebook**: Navegue até a pasta do projeto e abra o notebook `spotify_api_request_PT-BR.ipynb` no Jupyter Notebook, JupyterLab, VSCode.
 
 3. **Siga as Etapas**: No notebook, siga as etapas fornecidas para autenticar suas solicitações, fazer chamadas à API do Spotify, coletar dados brutos e transformá-los em um formato utilizável.
 
