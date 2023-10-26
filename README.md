@@ -1,10 +1,10 @@
-SPOTIFY API REQUEST
+# SPOTIFY API REQUEST
 
 Este repositório contém um notebook prático para ajudá-lo a entender e utilizar a API do Spotify de forma eficaz. Ao seguir os passos descritos no notebook, você aprenderá como autenticar suas solicitações, fazer chamadas à API do Spotify e coletar dados brutos, bem como transformá-los, tudo usando Python.
 
 Verifique também o artigo Como Acessar a API do Spotify com Python no Medium sobre este projeto
 
-Arquivos
+## Arquivos
 
 1. **Notebooks**: Esta pasta contém o notebook Jupyter dividido em etapas simples e acionáveis para guiar você no processo de extração de dados da API do Spotify.
 
@@ -12,7 +12,7 @@ Arquivos
 
 3. **SQLite**: Além do arquivo CSV, os dados também são armazenados em um banco de dados SQLite para facilitar a consulta e análise.
 
-Requisitos
+## Requisitos
 
 Antes de começar, certifique-se de ter as bibliotecas Python instaladas dentro de seu ambiente:
 
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 
 
-Como Usar
+## Como Usar
 
 1. **Clone o Repositório**: Comece clonando este repositório para o seu ambiente local usando o seguinte comando:
 
