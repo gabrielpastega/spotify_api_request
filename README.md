@@ -2,7 +2,7 @@
 
 Este repositório contém um notebook prático para ajudá-lo a entender e utilizar a API do Spotify de forma eficaz. Ao seguir os passos descritos no notebook, você aprenderá como autenticar suas solicitações, fazer chamadas à API do Spotify e coletar dados brutos, bem como transformá-los, tudo usando Python.
 
-Verifique também o artigo <a href="https://medium.com/@gabrielpbreis/como-acessar-a-api-do-spotify-com-python-fb9415f29bda">Como Acessar a API do Spotify</a> no Medium sobre este projeto
+Verifique também o artigo <a href="https://medium.com/@gabrielpbreis/como-acessar-a-api-do-spotify-com-python-fb9415f29bda">Como Acessar a API do Spotify com Python</a> no Medium sobre este projeto
 
 ## Arquivos
 
