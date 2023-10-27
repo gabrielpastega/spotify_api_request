@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## Como Usar
 
-1. **Clone o Repositório**: Comece clonando este repositório para o seu ambiente local usando o seguinte comando:
+1. **Clone o Repositório**: Comece clonando este repositório para o seu ambiente local usando o seguinte comando (ou pode também apenas realizar o download dos arquivos):
 
 ```bash
 git clone https://github.com/gabrielpastega/spotify_api_request
